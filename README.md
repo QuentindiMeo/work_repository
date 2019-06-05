@@ -6,7 +6,7 @@ You can find in this repo:
 - Matchstick (C)
 - 42sh       (C)
 
-All of the projects have a "-h" command to guide you if needed
+All of the projects have a "-h" command to guide you if needed.
 Compilation via a Makefile
 
 
