@@ -1,8 +1,8 @@
 # work_repository
-Repository where is stored some of my personal work, in or out of school
+In this repository is stored some of my personal work done at school
 
 
-You can find in this repo:
+In this repo, you can find:
 - Matchstick (C)
 - 42sh       (C)
 
@@ -12,12 +12,12 @@ Compilation via a Makefile
 
 
 Matchstick:
-    Reedition of the Marienbad puzzle game, with matches.
-    The person who takes the last matchstick loses!
-    Beat the IA to win!
+    Reedition of the Marienbad puzzle game, with matches.<br>
+    The person who takes the last matchstick loses!<br>
+    Beat the IA to win!<br>
     done alone.
 
 42sh:
-    Reedition of tcsh, a command interpreter.
-    Try and make a fully operational command interpreter, as close to tcsh as possible.
+    Reedition of tcsh, a command interpreter.<br>
+    Try and make a fully operational command interpreter, as close to tcsh as possible.<br>
     done in a group of 4.
