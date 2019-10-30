@@ -6,18 +6,18 @@ In this repo, you can find:
 - Matchstick (C)
 - 42sh       (C)
 
-All of the projects have a "-h" command to guide you if needed.
-Compilation via a Makefile
+All of the projects have a "-h" command to guide you if needed.<br>
+Compilation via Makefile
 
 
 
-Matchstick:
-    Reedition of the Marienbad puzzle game, with matches.<br>
-    The person who takes the last matchstick loses!<br>
-    Beat the IA to win!<br>
-    done alone.
+<b>Matchstick</b>:<br>
+Reedition of the Marienbad puzzle game, with matches.<br>
+The person who takes the last matchstick loses!<br>
+Beat the IA to win!<br>
+done alone
 
-42sh:
-    Reedition of tcsh, a command interpreter.<br>
-    Try and make a fully operational command interpreter, as close to tcsh as possible.<br>
-    done in a group of 4.
+<b>42sh</b>:<br>
+Reedition of tcsh, a command interpreter.<br>
+Try and make a fully operational command interpreter, as close to tcsh as possible.<br>
+done in a group of 4
